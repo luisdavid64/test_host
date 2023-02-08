@@ -1,0 +1,13 @@
+{
+    "meta":{
+      "created":"2023-01-27T17:57:31+00:00",
+      "updated":"2023-01-27T17:57:31+00:00"
+    },
+    "registry":{
+      "did:key:z6MkkTLVrFq2WfDXYLtXirxuxDKbwZevNMM1cf8CkjAJwcs2":{
+        "name":"Test Issuer",
+        "location":"Cambridge, MA, USA",
+        "url":"https://digitalcredentials.mit.edu"
+      }
+    }
+  }
